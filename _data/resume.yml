@@ -1,6 +1,7 @@
 - year: 2021
   Files:
-    - title: "Resume"
+    - authors: "Zhe Wang"
+      title: "Resume"
       date: 2021
       pdf: "/download/resume/Resume 20211212.pdf"
    
