@@ -1,35 +1,32 @@
-- year: Working Papers
-  WorkingPaper:
-    - authors: "Zhe Wang"
-      title: "Should risk averse investors hold crypto currencies in their portfolio?"
+- year: Undergraduate Level
+  Finance:
+    - authors: "Georgia State University"
+      title: "Corporate Finance"
       date: 2021-10-24
-  #    pdf: "/download/papers/jmp.pdf"
-      note: "I study the wisdom of including cryptocurrencies on the optimal portfolio choice of a risk averse investor. 
-      I find that investors could gain additional utility from investing in cryptos as the optimal
-      portfolio is less exposed to risks associated with macroeconomic shock, the stock market, and the bond
-      market. If the investor has a higher degree of risk aversion, investing in cryptos will only reduce the risk
-      exposure associated with the stock market. We conclude that cryptocurrencies improve the investable
-      universe of assets and provide new channels/vehicles for investors’ risk hedging/diversification with no
-      substitutes from the stock market."
+      note: "Fall, 2015 - Spring, 2019."
     
-    - authors: "with Eric Ghysels, Alberto Plazzi, Rossen Valkanov"
-      title: "The Risk-Return Relationship and Flight to Safety."
+    - authors: "Georgia State University
+      title: "Financial Analysis and Intro to Loan Structure (Case-based analysis)"
       date: 2021-11-17
-      note: "Note here."
- 
-    - authors: "Zhe Wang"
-      title: "The Real Effect of Disclosure on Company Decisions: Evidence from Portfolio Choices of Investment Companies."
+      note: "Spring, 2019."
+
+  Real Estate:
+    - authors: "Georgia State University
+      title: "Fundamental Real Estate"
+      date: 2021-11-17
+      note: "Summer, 2016; Spring, 2017."
+
+- year: Graduate/MBA Level
+  FinTech:
+    - authors: "Georgia State University"
+      title: "FinTech"
       date: 2021-10-25
-      note: "Note here."   
+      note: "Fall, 2018 (TA for Prof. Baozhong Yang)"   
   
-    - authors: "with Lixin Huang, Omesh Kini, Ashutosh Tyagi"
-      title: "Analyst Geographic Proximity to Industry Center, Industry Information, and the Efficacy of Analyst Research Output."
+    - authors: "UNC Chapel Hill"
+      title: "Current Topics in Finance: FinTech"
       date: 2021-10-25
-      note: "Note here." 
+      note: "Spring, 2020, 2021, and 2022 (TA for Prof. Eric Ghysels)." 
       
-    - authors: "Lucia Alessi, Eric Ghysels, Marco Petracco"
-      title: "Bitcoin and News Around the World in Twenty-Six Languages."
-      date: 2021-11-24
-      note: "Note here."  
 
  
