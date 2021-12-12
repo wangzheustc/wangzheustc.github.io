@@ -1,5 +1,5 @@
 - year: Undergraduate Level
-  Finance:
+  type: Finance
     - authors: "Georgia State University"
       title: "Corporate Finance"
       date: 2021-10-24
@@ -10,14 +10,14 @@
       date: 2021-11-17
       note: "Spring, 2019."
 
-  Real Estate:
+  type: Real Estate
     - authors: "Georgia State University
       title: "Fundamental Real Estate"
       date: 2021-11-17
       note: "Summer, 2016; Spring, 2017."
 
 - year: Graduate/MBA Level
-  FinTech:
+  type: FinTech
     - authors: "Georgia State University"
       title: "FinTech"
       date: 2021-10-25
