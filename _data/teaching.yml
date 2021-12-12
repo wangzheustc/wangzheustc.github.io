@@ -1,5 +1,5 @@
 - year: Undergraduate Level
-  topic: Finance
+  courses:
     - authors: "Georgia State University"
       title: "Corporate Finance"
       note: "Fall, 2015 - Spring, 2019."
@@ -8,13 +8,12 @@
       title: "Financial Analysis and Intro to Loan Structure (Case-based analysis)"
       note: "Spring, 2019."
 
-  topic: Real Estate
     - authors: "Georgia State University
       title: "Fundamental Real Estate"
       note: "Summer, 2016; Spring, 2017."
 
 - year: Graduate/MBA Level
-  topic: FinTech
+  courses:
     - authors: "Georgia State University"
       title: "FinTech"
       note: "Fall, 2018 (TA for Prof. Baozhong Yang)"   
