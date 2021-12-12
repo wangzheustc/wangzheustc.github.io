@@ -1,94 +1,22 @@
-- year: 2015
+- year: 2021
   publications:
-    - authors: "Heywood P, Richmond P, Maddock S"
-      title: "Road Network Simulation using FLAME GPU"
-      journal: "Euro-Par 2015: Parallel Processing Workshops, Volume 9523 of the series Lecture Notes in Computer Science pp 430-441"
-      date: 2015-08-24
-      href: "http://www.springer.com/us/book/9783319273075"
-      bib: "/download/bib/heywood2015road.bib"
-      pdf: "/download/papers/road-network-simulation-using-flame-gpu.pdf"
-      note: 'The final publication is available at <a href="//link.springer.com">link.springer.com</a>'
-    - authors: "Heywood P, Richmond P, Maddock S"
-      title: "Visualising Real Time Large Scale Micro-Simulation of Transport Networks (Extended Abstract)"
-      journal: "To appear in 'Proceedings of Computer Graphics and Visual Computing'"
-      date: 2015-09-17
-      href: "http://diglib.eg.org/handle/10.2312/13226"
+    - authors: "Z. Wang, Cao, S, P. E. Yeung"
+      title: "Skin in the Game: Operating Growth, Firm Performance, and Future Stock Returns."
+      journal: "Journal of Financial and Quantitative Analysis, forthcoming"
+      date: 2021
+#      href: "http://www.springer.com/us/book/9783319273075"
+#      bib: "/download/bib/heywood2015road.bib"
+#      pdf: "/download/papers/road-network-simulation-using-flame-gpu.pdf"
+#      note: 'The final publication is available at <a href="//link.springer.com">link.springer.com</a>'
+- year: 2013
+  publications:
+    - authors: "Zhang T, Wang Z, Wang L, Luo N, Jiang L, et al."
+      title: "Role of the DSC1 Channel in Regulating Neuronal Excitability in Drosophila melanogaster: Extending Nervous System Stability under Stress."
+      journal: "PLOS Genet 9(3): e1003327."
+      date: 2013-03-07
+      href:
       bib: 
       pdf:
-      note:
-- year: 2016
-  publications:
-    - authors: "McIlveen J, Maddock S, Heywood P, Richmond P"
-      title: "PED: Pedestrian Environment Designer"
-      journal: "Computer Graphics & Visual Computing (CGVC) 2016"
-      date: 2016-09-15
-      href: "http://diglib.eg.org/handle/10.2312/2630862"
-      bib: "/download/bib/mcilveen2016ped.bib"
-      pdf: "http://diglib.eg.org/bitstream/handle/10.2312/cgvc20161304/105-112.pdf"
-      note:
-    - authors: "Shui W, Maddock S, Heywood P, Craig-Atkins E, Crangle J, Hadley D, Scott R"
-      title: "Using Semi-automatic 3D Scene Reconstruction to Create a Digital Medieval Charnel Chapel"
-      journal: "Computer Graphics & Visual Computing (CGVC) 2016"
-      date: 2016-09-15
-      href: "http://diglib.eg.org/handle/10.2312/2630862"
-      bib: "/download/bib/shui2016using.bib"
-      pdf: "http://diglib.eg.org/bitstream/handle/10.2312/cgvc20161301/087-094.pdf"
-      note:
-    - authors: "Bradley R, Wright I, Swain D, Himlin R, Heywood P, Richmond P, Maswon M, Fletcher G, Guichard R"
-      title: "Accelerating Traffic Models Using GPU-Based Technology"
-      journal: "Proceedings of European Transport Conference 2016"
-      date: 2016-10-05
-      href: "http://abstracts.aetransport.org/paper/index/id/5125/confid/21"
-      bib:
-      pdf: "http://abstracts.aetransport.org/paper/download/id/5125"
-      note:
-- year: 2017
-  publications:
-    - authors: "Heywood P, Maddock S, Brackstone M, Casas J, Garcia D, Richmond P"
-      title: "Data-parallel agent-based microscopic road network simulation using graphics processing units"
-      journal: "Simulation Modelling Practice and Theory"
-      date: 2017-11-04
-      href: "https://doi.org/10.1016/j.simpat.2017.11.002"
-      bib: "/download/bib/heywood2017data.bib"
-      pdf: 
-      note: ""
-      doi: "https://doi.org/10.1016/j.simpat.2017.11.002"
-    - authors: "Heywood P, Richmond P, Maddock S, Brackstone M, Casas J, Garcia D"
-      title: "Accelerating Transport Microsimulation: Demonstrating the Impact of Future Many-Core Simulations - Final Report"
-      journal: "Department for Transport - Transport Technology Research Innovation Grant (T-TRIG July 2016) Whitepaper"
-      date: 2017-01-01
-      href: 
-      bib: 
-      pdf: 
-      note: "To be published"
-- year: 2018
-  publications:
-    - authors: "Chimeh M, Heywood P, Pennisi M, Pappalardo F, and Richmond P"
-      title: "Parallel Pair-Wise Interaction for Multi-Agent Immune Systems Modelling"
-      journal: "Bioinformatics and Biomedicine (BIBM), 2018 IEEE International Conference on"
-      date: 2018-12-03
-      href: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8621404
-      bib: "/download/bib/chimeh2018parallel.bib"
-      pdf:
-      note: CMISF Workshop (BIBM) 2018. To be published.
-      doi: http://dx.doi.org/10.1109/BIBM.2018
-- year: 2019
-  publications:
-    - authors: "Heywood P, Maddock S, Bradley R, Swain D, Wright I, Mawson M, Fletcher G and Guichard R, Himlin R and Richmond P"
-      title: "A data-parallel many-source shortest-path algorithm to accelerate macroscopic transport network assignment"
-      journal: "Transportation Research Part C: Emerging Technologies"
-      date: 2019-05-16
-      href: http://www.sciencedirect.com/science/article/pii/S0968090X18303152
-      bib: "/download/bib/heywood2019data.bib"
-      pdf:
       note: 
-      doi: https://doi.org/10.1016/j.trc.2019.05.020
-    - authors: "Kabiri Chimeh M, Heywood P, Pennisi M, Pappalardo F, and Richmond P"
-      title: "Parallelisation strategies for agent based simulation of immune systems"
-      journal: "BMC Bioinformatics"
-      date: 2019-12-10
-      href: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3181-y
-      bib: "/download/bib/chimeh2019parallelisation.bib"
-      pdf:
-      note: 
-      doi: https://doi.org/10.1186/s12859-019-3181-y
+      doi: https://doi.org/10.1371/journal.pgen.1003327
+
