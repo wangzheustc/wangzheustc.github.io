@@ -14,15 +14,14 @@ title: Resume | Zhe Wang
             {% assign sorted_publication = year.Files | sort: 'date' %}
             {% for publication in sorted_publication %}
                 <li>
-                    <h4>
+                    <h4 style="color:Blue;">
                         {% if publication.title %}
                             "{{ publication.title }}"
                         {% endif %}
                     </h4>
-                    <h5>
-                        {% if publication.authors %}
-                            {{ publication.authors }}
-                        {% endif %}
+                    {% if publication.authors %}
+                        {{ publication.authors }}
+                    {% endif %}
                     </h5>
                     <p class="publication">
                         {% if publication.journal %}
