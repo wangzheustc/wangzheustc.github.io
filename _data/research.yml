@@ -1,13 +1,16 @@
 - year: Working Papers
   WorkingPaper:
-    - authors: "Heywood P, Richmond P, Maddock S"
-      title: "Road Network Simulation using FLAME GPU"
-      journal: "Euro-Par 2015: Parallel Processing Workshops, Volume 9523 of the series Lecture Notes in Computer Science pp 430-441"
-      date: 2015-08-24
-      href: "http://www.springer.com/us/book/9783319273075"
-      bib: "/download/bib/heywood2015road.bib"
+    - authors: "Zhe Wang"
+      title: "Should risk averse investors hold crypto currencies in their portfolio?"
+      date: 2021-10-24
       pdf: "/download/papers/road-network-simulation-using-flame-gpu.pdf"
-      note: 'The final publication is available at <a href="//link.springer.com">link.springer.com</a>'
+      note: "We study the wisdom of including cryptocurrencies on the optimal portfolio choice of a risk averse investor. 
+      We find that investors could gain additional utility from investing in cryptos as the optimal
+      portfolio is less exposed to risks associated with macroeconomic shock, the stock market, and the bond
+      market. If the investor has a higher degree of risk aversion, investing in cryptos will only reduce the risk
+      exposure associated with the stock market. We conclude that cryptocurrencies improve the investable
+      universe of assets and provide new channels/vehicles for investors’ risk hedging/diversification with no
+      substitutes from the stock market."
     - authors: "Heywood P, Richmond P, Maddock S"
       title: "Visualising Real Time Large Scale Micro-Simulation of Transport Networks (Extended Abstract)"
       journal: "To appear in 'Proceedings of Computer Graphics and Visual Computing'"
