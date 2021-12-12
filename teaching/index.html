@@ -11,7 +11,7 @@ title: Teaching | Zhe Wang
         <li>
             <h3>{{ year.year }}</h3>
             <ul>
-            {% assign sorted_publication = year.type | sort: 'date' %}
+            {% assign sorted_publication = year.topic %}
             {% for publication in sorted_publication %}
                 <li>
                     <h4>
