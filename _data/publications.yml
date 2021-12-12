@@ -2,7 +2,8 @@
   publications:
     - authors: "Zhe Wang, Sean Cao, P. Eric Yeung"
       title: "Skin in the Game: Operating Growth, Firm Performance, and Future Stock Returns."
-      journal: "Journal of Financial and Quantitative Analysis, forthcoming"
+      journal: "Journal of Financial and Quantitative Analysis"
+      volume: ", forthcoming"
       date: 2021
 #      href: "http://www.springer.com/us/book/9783319273075"
 #      bib: "/download/bib/heywood2015road.bib"
@@ -12,7 +13,8 @@
   publications:
     - authors: "Zhang T, Wang Z, Wang L, Luo N, Jiang L, et al."
       title: "Role of the DSC1 Channel in Regulating Neuronal Excitability in Drosophila melanogaster: Extending Nervous System Stability under Stress."
-      journal: "PLOS Genet 9(3): e1003327."
+      journal: "PLOS Genetics"
+      volume: " 9(3): e1003327"
       date: 2013-03-07
       href:
       bib: 
