@@ -352,53 +352,66 @@ footer .copyright {
 /******************
  * Research Page
  *****************/
-.post-nav a.heading {
-  display: block;
-  padding: 8px 16px;
-  color: #444;
-  /*border-bottom: 1px solid #777;*/
-  font-weight: bold;
+ul.pt-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 auto;
 }
-.post-nav a.heading:focus ,
-.post-nav a.heading:hover {
-  background: #f5f5f5;
+ul.pt-list > li {
+  list-style: none;
+  padding: 8px 0;
+  margin: 16px auto;
+}
+ul.pt-list > li h3 {
+  font-size: 20px;
+  margin: 4px 0;
+  color: #303030;
+}
+ul.pt-list > li > ul {
+  list-style: none;
+  padding: 0 0 0 0;
+}
+ul.pt-list > li > ul > li {
+  border-top: 1px solid #bbb;
+  margin-bottom: 24px;
+  padding-top: 12px;
+}
+ul.pt-list > li > ul > li:first-child{
+  border-top: 0;
+}
+ul.pt-list > li > ul > li h4 {
+  font-size: 20px;
+  margin: 4px 0;
+}
+ul.pt-list > li > ul > li h5 {
+  font-size: 16px;
+  font-style: italic;
+  margin: 4px 0 ;
+}
+ul.pt-list > li > ul > li p {
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 8px;
+}
+ul.pt-list li .button {
+  color: #586e75;
+  display: inline-block;
+  background: #eee8d5;
+  border-radius: 3px;
+  border: 1px solid #586e75;
+  padding: 4px 6px;
+  font-size: 14px;
+  line-height: 14px;
+  text-shadow:none;
+}
+ul.pt-list li .button:hover {
+  color: #eee8d5;
+  border-color: #002b36;
+  background: #268bd2;
 }
 
-.post-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 4px auto 4px auto;
-  width: 100%;
-}
-.post-nav ul > li {
-  position: relative;
-  display: block;
-}
-.post-nav ul > li > a {
-  display: block;
-  padding: 8px 16px;
-  background: #eee;
-  border: 1px solid #ddd;
-  border-top: 0;
-  color: #333;
-  text-align: left;
-}
-.post-nav ul > li:first-child > a {
-  border-radius: 4px 4px 0 0;
-  border-top: 1px solid #ddd;
-}
-.post-nav ul > li:last-child > a {
-  border-radius: 0 0 4px 4px;
-}
-.post-nav ul > li > a:focus ,
-.post-nav ul > li > a:hover {
-  background-color: #ddd;
-}
-.post-nav ul > li.active > a ,
-.post-nav ul > li.active > a:focus ,
-.post-nav ul > li.active > a:hover {
-  background-color: #2B6994;
-  color: #eee;
+ul.talk-list > li > ul > li {
+  margin-bottom: 16px;
 }
 
 
