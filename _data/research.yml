@@ -61,16 +61,19 @@
 
 - year: Work in Progress
   Projects:
-    - authors: "with Lucia Alessi, Eric Ghysels, Marco Petracco"
-      title: "Bitcoin and News Around the World in Twenty-Six Languages."
-      date: 2021-11-24
-      note: "The question to what extend cryptocurrencies are different from other asset classes is a topic of keen interests to academics, 
-      policy makers and practitioners. There is a large literature documenting the impact of U.S. macroeconomic news announcements on returns of 
-      various financial markets. In comparison, far less is known about the impact of news on cryptocurrency markets. While in general it is not 
-      clear what exactly determines the value of say Bitcoin, it is fair to say that one should not exclusively focus on macroeconomic events to 
-      study impact of news on cryptocurrencies as many other events - including regulatory announcements - matter. We examine both traditional 
-      news outlets as well as social media platforms. We use a unique and comprehensive data set to study the impact of news on Bitcoin. More 
-      specifically, we use the Europe Media Monitor (EMM) data, which gathers and aggregates more than 300,000 news articles per day from news 
-      portals world-wide in up to 70 languages -which we reduce to 26 for our analysis. It is this unique character of our data that allows us 
-      to study the impact of news on Bitcoin beyond what has been considered so far in the literature."       
+  - authors: "Zhe Wang"
+    title: "Pension-related business and syndicated loans: a potential conflict of interest."
+    date: 2021-11-24
+    note: "I find a potential conflict of interest if a fund family who serves as the pension provider of a firm is also involved in a syndicated 
+      loan for the same firm. The firm may keep their pension in the funds whose performance are not as good. As an exchange, the fund families give 
+      some advantageous terms in the loan agreement. In this way, firms may undermine the benefit of their own employees to lower their cost of debt."       
       
+  - authors: "Zhe Wang"
+    title: "Super Bowl and financial analysts: an analysis of two behavior biases."
+    date: 2021-11-24
+    note: "In this paper, I present evidences that the results of the Super Bowl Game could trigger two distinct behavior biases in the financial 
+    analysts that reduce their forecast accuracy. Both biases are more evident in the case after their home team lose a game."      
+    
+   - authors: "with Lucia Alessi, Eric Ghysels, and Marco Petracco"
+    title: "News: Tradition vs Social Media."
+    date: 2021-11-24
