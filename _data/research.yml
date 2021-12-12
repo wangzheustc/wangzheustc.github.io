@@ -15,20 +15,46 @@
     - authors: "with Eric Ghysels, Alberto Plazzi, Rossen Valkanov"
       title: "The Risk-Return Relationship and Flight to Safety."
       date: 2021-11-17
-      note: "Note here."
+      note: "The risk-return trade-off implies that a riskier investment should demand a higher expected return relative 
+      to the risk-free return. The approach of Ghysels, Santa-Clara, and Valkanov (2005) consisted of estimating the risk-return 
+      trade-off with a mixed frequency, or MIDAS, approach. MIDAS strikes a compromise between on the one hand the need for longer 
+      horizons to model expected returns and on the other hand to use high frequency data to model the conditional volatility 
+      required to estimate expected returns. Using the approach of Ghysels, Santa-Clara, and Valkanov (2005), we find that the Merton 
+      model holds over samples that exclude financial crises, and show that a simple fight to safety indicator separates the traditional 
+      risk-return relationship from financial crises."
  
     - authors: "Zhe Wang"
       title: "The Real Effect of Disclosure on Company Decisions: Evidence from Portfolio Choices of Investment Companies."
       date: 2021-10-25
-      note: "Note here."   
+      note: "This paper investigates how the quality of financial disclosures impacts the portfolio choices of domestic and foreign 
+      investment companies. I implement an exogenous shock to the quality of financial reporting in European equity markets and examine 
+      the portfolio choices of global investment companies in the pre and post periods. I find that foreign investment companies significantly 
+      improve their stock-picking skills after the shock, in contrast to domestic ones whose skills deteriorate afterward. The change in the 
+      relative performance between domestic and foreign investment companies is more profound in stocks with larger information asymmetries, 
+      and in stocks whose business complexity is more severe. My results contribute to the positive accounting theory by showing that the 
+      aggregated information in financial disclosure could help investors making better investment decisions. However, to improve the disclosure 
+      quality may not make all investors better off. Instead, the role financial reporting serves is to level the playing field between different 
+      groups of investors. I thus provide direct evidence on how disclosure quality improves market efficiency and capital allocation."   
   
     - authors: "with Lixin Huang, Omesh Kini, Ashutosh Tyagi"
       title: "Analyst Geographic Proximity to Industry Center, Industry Information, and the Efficacy of Analyst Research Output."
       date: 2021-10-25
-      note: "Note here." 
+      note: "We propose that an analyst’s distance-to-industry-center (DTIC) can serve as an instrument for industry information. Consistent with 
+      this hypothesis, we find that DTIC has a significant negative impact on forecast accuracy. We conduct a series of tests to corroborate the 
+      link between DTIC and industry information, which is relevant for within-industry co-movement of firm fundamentals and returns. Finally, we 
+      exploit the impact of Chinese import shocks on different industries as exogenous shocks to industry centers to establish a causal link between 
+      DTIC and forecast accuracy. Overall, we shed light on how an analyst’s industry information is disseminated into the market." 
       
     - authors: "Lucia Alessi, Eric Ghysels, Marco Petracco"
       title: "Bitcoin and News Around the World in Twenty-Six Languages."
       date: 2021-11-24
-      note: "Note here."  
+      note: "The question to what extend cryptocurrencies are different from other asset classes is a topic of keen interests to academics, 
+      policy makers and practitioners. There is a large literature documenting the impact of U.S. macroeconomic news announcements on returns of 
+      various financial markets. In comparison, far less is known about the impact of news on cryptocurrency markets. While in general it is not 
+      clear what exactly determines the value of say Bitcoin, it is fair to say that one should not exclusively focus on macroeconomic events to 
+      study impact of news on cryptocurrencies as many other events - including regulatory announcements - matter. We examine both traditional 
+      news outlets as well as social media platforms. We use a unique and comprehensive data set to study the impact of news on Bitcoin. More 
+      specifically, we use the Europe Media Monitor (EMM) data, which gathers and aggregates more than 300,000 news articles per day from news 
+      portals world-wide in up to 70 languages -which we reduce to 26 for our analysis. It is this unique character of our data that allows us 
+      to study the impact of news on Bitcoin beyond what has been considered so far in the literature."  
 
