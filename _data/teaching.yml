@@ -16,8 +16,12 @@
   courses:
     - authors: "Georgia State University"
       title: "FinTech"
-      note: "Fall, 2018 (TA for Prof. Baozhong Yang)."   
-  
+      note: "Fall, 2018 (TA for Prof. Baozhong Yang).
+      
+    - authors: "Georgia State University"
+      title: "Learning Lab"
+      note: "Fall, 2016 – Spring, 2019."   
+      
     - authors: "UNC Chapel Hill"
       title: "Current Topics in Finance: FinTech"
       note: "Spring, 2020, 2021, and 2022 (TA for Prof. Eric Ghysels)." 
