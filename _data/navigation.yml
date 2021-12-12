@@ -7,11 +7,11 @@
 - text: "Research"
   url: "/research/"
   
- - text: "Teaching"
-  url: "/teaching/"
+# - text: "Teaching"
+#  url: "/teaching/"
  
- - text: "Resume"
-  url: "/resume/"
+# - text: "Resume"
+#  url: "/resume/"
   
 # - text: "Talks"
 #  url: "/talks/"
