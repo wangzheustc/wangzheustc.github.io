@@ -24,11 +24,11 @@ title: Publications | Zhe Wang
                         {% endif %}                    
                     
                     <p class="publication">
-                        <h5>
+
                         {% if publication.journal %}
-                            {{ publication.journal }}
+                            {{ publication.journal }+{publication.volume}}
                         {% endif %}
-                        </h5>
+
                     </p>
                     
                     <p class="publication">
