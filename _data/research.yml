@@ -3,19 +3,27 @@
     - authors: "Zhe Wang"
       title: "Should risk averse investors hold crypto currencies in their portfolio?"
       date: 2021-10-24
-      pdf: "/download/papers/road-network-simulation-using-flame-gpu.pdf"
-      note: "We study the wisdom of including cryptocurrencies on the optimal portfolio choice of a risk averse investor. 
-      We find that investors could gain additional utility from investing in cryptos as the optimal
+      pdf: "/download/papers/jmp.pdf"
+      note: "I study the wisdom of including cryptocurrencies on the optimal portfolio choice of a risk averse investor. 
+      I find that investors could gain additional utility from investing in cryptos as the optimal
       portfolio is less exposed to risks associated with macroeconomic shock, the stock market, and the bond
       market. If the investor has a higher degree of risk aversion, investing in cryptos will only reduce the risk
       exposure associated with the stock market. We conclude that cryptocurrencies improve the investable
       universe of assets and provide new channels/vehicles for investors’ risk hedging/diversification with no
       substitutes from the stock market."
-    - authors: "Heywood P, Richmond P, Maddock S"
-      title: "Visualising Real Time Large Scale Micro-Simulation of Transport Networks (Extended Abstract)"
-      journal: "To appear in 'Proceedings of Computer Graphics and Visual Computing'"
-      date: 2015-09-17
-      href: "http://diglib.eg.org/handle/10.2312/13226"
-      bib: 
-      pdf:
-      note:
+    - authors: "with Eric Ghysels, Alberto Plazzi, Rossen Valkanov"
+      title: "The Risk-Return Relationship and Flight to Safety."
+      date: 2021-11-17
+      note: "Note here."
+    - authors: "Zhe Wang"
+      title: "The Real Effect of Disclosure on Company Decisions: Evidence from Portfolio Choices of Investment Companies."
+      date: 2021-10-25
+      note: "Note here."
+    - authors: "with Lixin Huang, Omesh Kini, and Ashutosh Tyagi"
+      title: "Analyst Geographic Proximity to Industry Center, Industry Information, and the Efficacy of Analyst Research Output."
+      date: 2021-10-25
+      note: "Note here."    
+     - authors: "Lucia Alessi, Eric Ghysels, and Marco Petracco"
+      title: "Bitcoin and News Around the World in Twenty-Six Languages."
+      date: 2021-11-24
+      note: "Note here."         
