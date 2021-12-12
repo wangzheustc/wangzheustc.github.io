@@ -7,8 +7,8 @@
 - text: "Research"
   url: "/research/"
   
-# - text: "Teaching"
-#  url: "/teaching/"
+- text: "Teaching"
+  url: "/teaching/"
  
 # - text: "Resume"
 #  url: "/resume/"
