@@ -1,5 +1,5 @@
 - year: Working Papers
-  WorkingPaper:
+  Projects:
     - authors: "Zhe Wang"
       title: "Should risk averse investors hold crypto currencies in their portfolio?"
       date: 2021-10-24
@@ -59,7 +59,7 @@
       to study the impact of news on Bitcoin beyond what has been considered so far in the literature."  
 
 - year: Work in Progress
-  WorkingPaper:
+  Projects:
   - authors: "Zhe Wang"
      title: "Pension-related business and syndicated loans: a potential conflict of interest."
      date: 2021-11-24
