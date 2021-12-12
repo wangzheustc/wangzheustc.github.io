@@ -3,7 +3,7 @@
     - authors: "Zhe Wang"
       title: "Should risk averse investors hold crypto currencies in their portfolio?"
       date: 2021-10-24
-      pdf: "/download/papers/jmp.pdf"
+  #    pdf: "/download/papers/jmp.pdf"
       note: "I study the wisdom of including cryptocurrencies on the optimal portfolio choice of a risk averse investor. 
       I find that investors could gain additional utility from investing in cryptos as the optimal
       portfolio is less exposed to risks associated with macroeconomic shock, the stock market, and the bond
