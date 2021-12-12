@@ -1,10 +1,10 @@
-- text: Email
+- text: Gmail
   alternative: wangzheustc@gmail.com
   url: mailto: wangzheustc@gmail.com
   icon: /img/font-awesome/envelope.svg
   contact_order: 0
 
-- text: Email
+- text: KFBS Email
   alternative: zhe_wang@kenan-flagler.unc.edu
   url: mailto: zhe_wang@kenan-flagler.unc.edu
   icon: /img/font-awesome/envelope.svg
