@@ -6,7 +6,7 @@ title: Teaching | Zhe Wang
 <section id="teaching">
     <h2 class="sub-header">Teaching</h2>
     <ul class="pt-list publication-list">
-    {% assign sorted_publication_years = site.data.teaching | sort: 'year' %}
+    {% assign sorted_publication_years = site.data.teaching %}
     {% for year in sorted_publication_years reversed %}
         <li>
             <h3>{{ year.year }}</h3>
