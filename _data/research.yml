@@ -60,21 +60,20 @@
 
 - year: Work in Progress
   WorkingPaper:
-     - authors: "Zhe Wang"
-      title: "Pension-related business and syndicated loans: a potential conflict of interest."
-      date: 2021-11-24
-      note: "I find a potential conflict of interest if a fund family who serves as the pension provider of a firm is also involved in a syndicated 
+  - authors: "Zhe Wang"
+     title: "Pension-related business and syndicated loans: a potential conflict of interest."
+     date: 2021-11-24
+     note: "I find a potential conflict of interest if a fund family who serves as the pension provider of a firm is also involved in a syndicated 
       loan for the same firm. The firm may keep their pension in the funds whose performance are not as good. As an exchange, the fund families give 
       some advantageous terms in the loan agreement. In this way, firms may undermine the benefit of their own employees to lower their cost of debt."  
-      
-     - authors: "Zhe Wang"
-      title: "Super Bowl and financial analysts: an analysis of two behavior biases."
-      date: 2021-11-24
-      note: "In this paper, I present evidences that the results of the Super Bowl Game could trigger two distinct behavior biases in the financial 
-      analysts that reduce their forecast accuracy. Both biases are more evident in the case after their home team lose a game." 
+   - authors: "Zhe Wang"
+    title: "Super Bowl and financial analysts: an analysis of two behavior biases."
+    date: 2021-11-24
+    note: "In this paper, I present evidences that the results of the Super Bowl Game could trigger two distinct behavior biases in the financial 
+    analysts that reduce their forecast accuracy. Both biases are more evident in the case after their home team lose a game." 
  
-     - authors: "with Lucia Alessi, Eric Ghysels, and Marco Petracco"
-      title: "News: Tradition vs Social Media."
-      date: 2021-11-24
+   - authors: "with Lucia Alessi, Eric Ghysels, and Marco Petracco"
+    title: "News: Tradition vs Social Media."
+    date: 2021-11-24
       
       
