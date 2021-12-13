@@ -1,1 +1,45 @@
+---
+layout: default
+title: My Interests | Zhe Wang
+---
 
+<section id="interests">
+    <h2 class="sub-header">Interesting Things</h2>
+    <ul class="pt-list publication-list">
+    {% assign sorted_publication_years = site.data.interests %}
+    {% for year in sorted_publication_years %}
+        <li>
+            <h3>{{ year.year }}</h3>
+            <ul>
+            {% assign sorted_publication = year.items | sort: 'date' %}
+            {% for publication in sorted_publication %}
+                <li>
+                    <h4  style="color:Blue;">
+                        {% if publication.title %}
+                            "{{ publication.title }}"
+                        {% endif %}
+                    </h4>
+                    {% if publication.authors %}
+                        {{ publication.authors }}
+                    {% endif %}
+                    <p class="publication">
+                        {% if publication.journal %}
+                            {{ publication.journal }}
+                        {% endif %}
+                    </p>
+                    <p class="publication">
+                        {% if publication.note %}
+                            {{ publication.note }}
+                        {% endif %}
+                    </p>
+                    {% if publication.pic %}
+                        <img src={{publication.pic}} alt="Trulli" width="500" height="333">
+                    {% endif %}
+
+                </li>
+            {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+    </ul>
+</section>
