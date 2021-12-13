@@ -13,8 +13,8 @@
 - text: "Resume"
   url: "/resume/"
 
-- text: "My Interests"
-  url: "/interests/"
+- text: "My Life"
+  url: "/mylife/"
   
 # - text: "Talks"
 #  url: "/talks/"
