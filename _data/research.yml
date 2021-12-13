@@ -13,9 +13,9 @@
       substitutes from the stock market."
       pics:
         -pic: "/img/research/JMP1.png"
-          note: "Performance of four cryptocurrencies."
+         note: "Performance of four cryptocurrencies."
         -pic: "/img/research/JMP2.png"
-          note: "(Top) Cryptos improve utility; (Bottom) Percentage of total assets invested in cryptos in an optimal portfolio."
+         note: "(Top) Cryptos improve utility; (Bottom) Percentage of total assets invested in cryptos in an optimal portfolio."
       
     - authors: "with Eric Ghysels, Alberto Plazzi, Rossen Valkanov"
       title: "The Risk-Return Relationship and Flight to Safety."
