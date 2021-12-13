@@ -39,7 +39,11 @@
       aggregated information in financial disclosure could help investors making better investment decisions. However, to improve the disclosure 
       quality may not make all investors better off. Instead, the role financial reporting serves is to level the playing field between different 
       groups of investors. I thus provide direct evidence on how disclosure quality improves market efficiency and capital allocation."   
-  
+      pic1: "/img/research/IFRS1.png"
+      note1: ""
+      pic2: "/img/research/IFRS2.png"
+      note2: ""
+      
     - authors: "with Lixin Huang, Omesh Kini, Ashutosh Tyagi"
       title: "Analyst Geographic Proximity to Industry Center, Industry Information, and the Efficacy of Analyst Research Output."
       date: 2021-10-25
