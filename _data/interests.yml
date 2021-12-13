@@ -4,11 +4,11 @@
       date: 2016
       pic1: "/img/interests/cat/cat2016_1.jpg"
       pic2: "/img/interests/cat/cat2016_2.jpg"
-      note: "Born in 2014"
+      note: "Born in 2014."
 
 - year: Travel
   items:
     - title: "Gatlinburg, TN 2013"     
       date: 2016
       pic1: "/img/interests/travel/Gatlinburg2013.JPG"
-      note: "A picture taken from my favourate hotel"
+      note: "A picture taken from my favorite hotel."
