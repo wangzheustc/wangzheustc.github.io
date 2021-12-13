@@ -463,6 +463,72 @@ ul.talk-list > li > ul > li {
 }
 
 /******************
+ * mylife Page
+ *****************/
+ul.pt-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 auto;
+}
+ul.pt-list > li {
+  list-style: none;
+  padding: 8px 0;
+  margin: 16px auto;
+}
+ul.pt-list > li h3 {
+  font-size: 20px;
+  margin: 4px 0;
+  color: #303030;
+}
+ul.pt-list > li > ul {
+  list-style: none;
+  padding: 0 0 0 0;
+}
+ul.pt-list > li > ul > li {
+  border-top: 1px solid #bbb;
+  margin-bottom: 24px;
+  padding-top: 12px;
+}
+ul.pt-list > li > ul > li:first-child{
+  border-top: 0;
+}
+ul.pt-list > li > ul > li h4 {
+  font-size: 20px;
+  margin: 4px 0;
+}
+ul.pt-list > li > ul > li h5 {
+  font-size: 16px;
+  font-style: italic;
+  margin: 4px 0 ;
+}
+ul.pt-list > li > ul > li p {
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 8px;
+}
+ul.pt-list li .button {
+  color: #586e75;
+  display: inline-block;
+  background: #eee8d5;
+  border-radius: 3px;
+  border: 1px solid #586e75;
+  padding: 4px 6px;
+  font-size: 14px;
+  line-height: 14px;
+  text-shadow:none;
+}
+ul.pt-list li .button:hover {
+  color: #eee8d5;
+  border-color: #002b36;
+  background: #268bd2;
+}
+
+ul.talk-list > li > ul > li {
+  margin-bottom: 16px;
+}
+
+
+/******************
  * Publications Page
  *****************/
 ul.pt-list {
