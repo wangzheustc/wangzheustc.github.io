@@ -11,7 +11,11 @@
       exposure associated with the stock market. We conclude that cryptocurrencies improve the investable
       universe of assets and provide new channels/vehicles for investors’ risk hedging/diversification with no
       substitutes from the stock market."
-    
+      pic1: "/img/research/JMP1.png"
+      note1: ""
+      pic2: "/img/research/JMP2.png"
+      note2: ""
+      
     - authors: "with Eric Ghysels, Alberto Plazzi, Rossen Valkanov"
       title: "The Risk-Return Relationship and Flight to Safety."
       date: 2021-11-17
