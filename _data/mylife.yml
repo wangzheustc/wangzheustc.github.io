@@ -1,0 +1,11 @@
+- year: My Cat
+  items:
+    - authors: "Zhe Wang, Sean Cao, P. Eric Yeung"
+      title: "Skin in the Game: Operating Growth, Firm Performance, and Future Stock Returns."
+      journal: "Journal of Financial and Quantitative Analysis"
+      volume: ", forthcoming"
+      date: 2021
+#      href: "http://www.springer.com/us/book/9783319273075"
+#      bib: "/download/bib/heywood2015road.bib"
+#      pdf: "/download/papers/road-network-simulation-using-flame-gpu.pdf"
+#      note: 'The final publication is available at <a href="//link.springer.com">link.springer.com</a>'
