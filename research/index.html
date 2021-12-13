@@ -42,6 +42,7 @@ title: Research | Zhe Wang
                         <a class="button" href="{{ publication.bib }}" target="_blank">bib</a>
                     {% endif %}
                     {% if publication.pics %}
+                        <ul>
                         {% assign piclist = publication.pics %}
                             {% for pic in piclist %}
                                 <li>
@@ -49,6 +50,7 @@ title: Research | Zhe Wang
                                 </li>
                             {% endfor %}   
                             <p style="clear: both;">
+                        </ul>
                     {% endif %}            
                 </li>
             {% endfor %}
