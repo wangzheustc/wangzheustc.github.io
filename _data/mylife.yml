@@ -2,13 +2,16 @@
   items:
     - title: "Atlanga, GA 2016"     
       date: 2016
-      pic1: "/img/interests/cat/cat2016_1.jpg"
-      pic2: "/img/interests/cat/cat2016_2.jpg"
       note: "Born in 2014."
+      pic1: "/img/interests/cat/cat2016_1.jpg"
+      note1: "Staring"
+      pic2: "/img/interests/cat/cat2016_2.jpg"
+      note2: "Squinting"
 
 - year: Travel
   items:
     - title: "Gatlinburg, TN 2013"     
-      date: 2016
-      pic1: "/img/interests/travel/Gatlinburg2013.JPG"
+      date: 2016      
       note: "A picture taken from my favorite hotel."
+      pic1: "/img/interests/travel/Gatlinburg2013.JPG"
+      note1: "Hotel by a Creek"
