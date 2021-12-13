@@ -35,17 +35,20 @@ title: My Interests | Zhe Wang
                     {% if publication.pic1 and publication.pic2 %}
                          <img src={{publication.pic1}} alt="Trulli" width=auto height="300">
                         <img src={{publication.pic2}} alt="Trulli" width=auto height="300">
-                        <div class="row">
-                            <div class="column">
-                                <img src={{publication.pic1}}  alt="Snow" style="width:25%">
+                        <div class="image123">
+                            <div class="imgContainer">
+                                <img src={{publication.pic1}} height="200" width="200"/>
+                                <p>This is image 1</p>
                             </div>
-                            <div class="column">
-                                <img src={{publication.pic2}}  alt="Forest" style="width:25%">
+                            <div class="imgContainer">
+                                <img class="middle-img" src={{publication.pic2}}/ height="200" width="200"/>
+                                <p>This is image 2</p>
                             </div>
-                            <div class="column">
-                                <img src={{publication.pic2}}  alt="Mountains" style="width:25%">
+                            <div class="imgContainer">
+                                 <img src={{publication.pic2}}/ height="200" width="200"/>
+                                <p>This is image 3</p>
                             </div>
-                        </div>                   
+                        </div>               
                     
                     {% endif %}
 
