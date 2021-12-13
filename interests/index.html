@@ -32,7 +32,7 @@ title: My Interests | Zhe Wang
                             {{ publication.note }}
                         {% endif %}
                     </p>
-                    {% if publication.pic1 & publication.pic2 %}
+                    {% if publication.pic1 and publication.pic2 %}
                          <img src={{publication.pic1}} alt="Trulli" width=auto height="300">
                         <img src={{publication.pic2}} alt="Trulli" width=auto height="300">
                     {% endif %}
